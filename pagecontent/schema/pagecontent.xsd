@@ -1636,6 +1636,7 @@
 		<restriction base="string">
 			<enumeration value="paragraph"/>
 			<enumeration value="heading"/>
+			<enumeration value="subheading"/>
 			<enumeration value="caption"/>
 			<enumeration value="header"/>
 			<enumeration value="footer"/>
